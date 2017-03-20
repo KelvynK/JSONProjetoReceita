@@ -1,0 +1,40 @@
+{
+  "Autor": "Belco",
+  "Receita": "Pao de Queijo",
+  "Tempo": 20,
+  "Ingredientes": [
+    {
+      "Item": "Trigo",
+      "Qtde": "2 canecas"
+    },
+    {
+      "Item": "sal",
+      "Qtde": "1 colher"
+    },
+    {
+      "Item": "amor",
+      "Qtde": "Opcional"
+    }
+  ],
+  "Autor": "Diegao",
+  "Receita": "Pizza",
+  "Tempo": 50,
+  "Ingredientes": [
+    {
+      "Item": "massa",
+      "Qtde": "1 forma"
+    },
+    {
+      "Item": "sal",
+      "Qtde": "1 colher"
+    },
+    {
+      "Item": "calabresa",
+      "Qtde": "muitas rodelas"
+    },
+    {
+      "Item": "queijo",
+      "Qtde": "1 fatia"
+    }
+  ]
+}
